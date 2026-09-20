@@ -1,0 +1,29 @@
+//Questão 2 — Situação completa de um aluno
+ // 
+// Uma faculdade deseja determinar a situação de um aluno.
+// 
+// Faça um programa que receba:
+// 
+// nota da primeira prova;
+// nota da segunda prova;
+// nota do trabalho;
+// quantidade de faltas.
+// 
+// Calcule:
+// 
+// media = (prova1 + prova2 + trabalho) / 3
+// 
+// A classificação por nota é:
+// 
+// média >= 7: aprovado;
+// média >= 5 e menor que 7: recuperação;
+// média menor que 5: reprovado.
+// 
+// Porém, existe outra regra:
+// 
+// Se o aluno possuir mais de 15 faltas, ele estará automaticamente reprovado por faltas, independentemente da média.
+// 
+// Mostre:
+// 
+// média;
+// situação final.
