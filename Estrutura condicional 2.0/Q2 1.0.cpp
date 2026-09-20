@@ -1,5 +1,5 @@
-// Questão 2 — Situação completa de um aluno
-// 
+ //Questão 2 — Situação completa de um aluno
+ // 
 // Uma faculdade deseja determinar a situação de um aluno.
 // 
 // Faça um programa que receba:
